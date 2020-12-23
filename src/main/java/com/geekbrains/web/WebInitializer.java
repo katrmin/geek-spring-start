@@ -1,4 +1,4 @@
-package com.geekbrains;
+package com.geekbrains.web;
 
 import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.filter.HiddenHttpMethodFilter;
